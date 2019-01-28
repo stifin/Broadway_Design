@@ -35,3 +35,15 @@ p {
   font-weight: bold;
   color: white;
 }
+
+span {
+  font-size: 11px;
+}
+
+.footer {
+  background-color: dimgray;
+}
+
+a {
+  color: white;
+}
