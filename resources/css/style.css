@@ -12,6 +12,12 @@ body {
 #Home {
   font-size: 18px;
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+#Designed {
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 h2, h3 {
@@ -30,10 +36,9 @@ p {
   font-size: 14px;
 }
 
-#Designed h3 {
+.Info h3 {
   font-size: 23px;
   font-weight: bold;
-  color: white;
 }
 
 span {
@@ -42,6 +47,7 @@ span {
 
 .footer {
   background-color: dimgray;
+  text-align: left;
 }
 
 a {
